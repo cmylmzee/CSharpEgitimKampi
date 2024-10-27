@@ -89,4 +89,4 @@ Bu projeler, C# dilinin temellerini anlamamı sağladı ve pratik beceriler kaza
 
 ---
 
-Umarım bu README, projeni GitHub'da etkileyici bir şekilde sunmana katkı sağlar! 🎉
+
