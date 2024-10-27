@@ -1,5 +1,5 @@
 
-# 🚀 **C# Eğitim Kampı Proje Arşivi**  
+# 🚀 **C# Murat Yücedağ Eğitim Kampı**  
 Bu repo, **Murat Yücedağ** eğitmenliğinde gerçekleştirilen **C# Eğitim Kampı** kapsamında tamamladığım 9 projeyi içerir. Her proje, temel yazılım becerilerimi geliştirmemde önemli bir adım oldu. Projelerin ayrıntılarına aşağıdan ulaşabilirsin:  
 
 ---
